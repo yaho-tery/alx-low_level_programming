@@ -1,15 +1,10 @@
-/**
-*File: 4-puts.c
-*name: AKUKULONG GILBERT NKANGBUANGBUA
-*/
 #include <stdio.h>
 
 /**
-* main - displays "Programming is like building
-*                a multilingual puzzle, followed by a new line"
+* main - Entry point
 *
 *
-* Return: Always 0.
+* Return: Always 0 (success)
 */
 int main(void)
 {
